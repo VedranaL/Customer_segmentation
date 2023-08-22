@@ -15,8 +15,6 @@ The minimum requirements:
 
 - AWS Redshift connection details
 
-### Instructions on how to execute the code
 
-- Copy the .env.example file to .env and fill out the environment variables.
 
 
